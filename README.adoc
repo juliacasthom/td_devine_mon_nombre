@@ -40,7 +40,10 @@ TIP: Le nom d'un _crate_ respecte la notation https://doc.rust-lang.org/1.0.0/st
 +
 .Quelles commandes avez-vous tapées ?
 ....
-🡆 Répondre ici 🡄
+J'ai d'abord vérifier que j'etais dans le bonne endroit: cd /Users/juliacastellanothomson/hello/devine_mon_nombre/src, je suis dans le repertoire src.
+Je le compile avec cargo: cargo run --bin devine_mon_nombre.
+Apres l'execution elle affich : "Hello, world!"
+
 ....
 +
 NOTE: Le message `Hello world!` doit apparaître à l'écran.
